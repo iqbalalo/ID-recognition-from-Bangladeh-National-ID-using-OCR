@@ -1,5 +1,5 @@
 # Introduction
-ID recognition from national identity card of Bangladesh using OCR. Mother language of Bangldesh is Bangla. Although many official documents are in English but they have text in Bangla also. This repository is just an example of recognition Bangla text from any picture.
+This repository is an example of ID recognition from national identity card of Bangladesh using OCR. In fact mother language of Bangldesh is Bangla. Second language is English. Although many official documents are in English but they have text in Bangla also. This repository aims to recognition Bangla text from any picture.
 
 Key Technology:
 - Python
